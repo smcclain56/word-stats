@@ -1,0 +1,15 @@
+This is the README FILE for the first homework. 
+@Author Sarah McClain
+
+This project takes strings inputted by the user and gives the user options to calculate 
+statistics on the string. These options include:
+
+Enter 1 to print vowel and consonant frequency. 
+Enter 2 to print word count.
+Enter 3 to print histogram.
+Enter 4 to return to inputting more strings.
+Enter 5 to quit. 
+
+Note: I didn't really understand how to use the struct properly and how to update the histogram on there in particular 
+Also I have a makefile (it wasn't working) and seperated my code in the files but I put all of my code in the main file 
+so you can run it with a gcc -Wall -g -o main main.c command.
